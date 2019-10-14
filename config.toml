@@ -1,6 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "en-gb"
+title = "Methods and applications of graph genomes to pathogens and public health"
 theme = "reveal-hugo"
 
 [outputFormats.Reveal]

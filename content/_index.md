@@ -1,14 +1,18 @@
 +++
-title = "My presentation"
 outputs = ["Reveal"]
 +++
 
-# Hello world!
+## Methods and applications of graph genomes to pathogens and public health
 
-This is my first slide.
+Michael B. Hall
+
+**Second Year Report**
 
 ---
 
-# Hello Mars!
+# Presentation Overview
 
-This is my second slide
+1.  What have I been doing for the last 12 months?
+2.  Executive Summary
+3.  Thesis Plan
+4.  Publication Strategy
